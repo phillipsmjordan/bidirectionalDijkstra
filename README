@@ -1,0 +1,1 @@
+Java implimentation of bidirectional Dijkstra algorithm. Use 'java DijkstraBidirectional [filename].gr' after compiling to run.
